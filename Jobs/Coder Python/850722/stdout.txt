@@ -1,0 +1,24 @@
+ * Starting OpenBSD Secure Shell server sshd
+   ...done.
+[2023-10-25T08:20:45.441Z] info  code-server 4.18.0 d7a2b4936af1bfd80cb96f2567af68badc2325e3
+[2023-10-25T08:20:45.442Z] info  Using user-data-dir /home/ucloud/.local/share/code-server
+[2023-10-25T08:20:45.451Z] info  Using config file /home/ucloud/.local/share/code-server/User/config.yaml
+[2023-10-25T08:20:45.451Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2023-10-25T08:20:45.451Z] info    - Authentication is disabled
+[2023-10-25T08:20:45.451Z] info    - Not serving HTTPS
+[2023-10-25T08:20:45.451Z] info  Session server listening on /home/ucloud/.local/share/code-server/code-server-ipc.sock
+[10:20:51] 
+
+
+
+
+[10:20:51] Extension host agent started.
+File not found: /usr/lib/code-server/lib/vscode/out/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/out/vsda.js
+[10:20:53] [10.42.0.148][4acca0d6][ManagementConnection] New connection established.
+[10:20:54] [10.42.0.148][9348d0e9][ExtensionHostConnection] New connection established.
+[10:20:55] [10.42.0.148][9348d0e9][ExtensionHostConnection] <234> Launched Extension Host Process.
+[10:21:07] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /work)
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js
+[12:20:39] [10.42.0.148][9348d0e9][ExtensionHostConnection] The client has reconnected.
+[12:20:39] [10.42.0.148][4acca0d6][ManagementConnection] The client has reconnected.

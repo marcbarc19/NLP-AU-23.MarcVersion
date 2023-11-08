@@ -1,0 +1,48 @@
+{
+    "siteVersion": 3,
+    "request": {
+        "application": {
+            "name": "coder-python",
+            "version": "1.82.2"
+        },
+        "product": {
+            "id": "u1-standard-1",
+            "category": "u1-standard",
+            "provider": "ucloud"
+        },
+        "name": null,
+        "replicas": 1,
+        "parameters": {
+        },
+        "resources": [
+            {
+                "path": "/836985",
+                "type": "file",
+                "readOnly": false
+            },
+            {
+                "path": "/819739",
+                "type": "file",
+                "readOnly": true
+            }
+        ],
+        "timeAllocation": {
+            "hours": 2,
+            "minutes": 0,
+            "seconds": 0
+        },
+        "resolvedProduct": null,
+        "resolvedApplication": null,
+        "resolvedSupport": null,
+        "allowDuplicateJob": true,
+        "sshEnabled": true
+    },
+    "resolvedResources": {
+        "ingress": {
+        }
+    },
+    "machineType": {
+        "cpu": 1,
+        "memoryInGigs": 6
+    }
+}
